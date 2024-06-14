@@ -27,10 +27,12 @@ La aplicación web desarrollada en NetBeans tiene como objetivo principal propor
     </td>
   </tr>
 </table>
+
 ## Imagen de la plataforma 
 
 
 Esta es una imagen relacionada con la pagina principal  .
+
 ![Captura de pantalla 2024-06-13 213429](https://github.com/guillermo-gordon18-2000/Farmacia-reporte-java/assets/83618044/3a68a23d-02b3-4b5b-9055-f943245ae590)
 
 Esta es una imagen relacionada con el Reporte de ventas .
